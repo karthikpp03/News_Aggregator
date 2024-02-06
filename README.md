@@ -1,4 +1,4 @@
-# Upd8ed: Aggregated. Upd8ed.
+# Aggregated
 
 ## Description/Overview
 A news aggregator, is a demonstration of the front-end skills we have learned during our time thus far in coding bootcamp. We have created a one-stop shop by pulling the latest business, entertainment, global, sports news from a variety of sources for the viewer. Upd8ed replicates the functionality of google news with the influence of Reddit.com and Pinterest.com.
@@ -36,7 +36,7 @@ First we made a global array of all the news sources (60 items), Then we made th
 ## Code Snippets and Screenshots
 
 Although not necessarily apparent in this screenshot, the stocks on the left side of the page are constantly being updated. Notice also that header below the nav bar displays up to date information on whether a stock market is currently open as well as the local time. 
-
+<img src="1.PNG" width=500 height=450>
 
 
 This is accomplished by the code below:
